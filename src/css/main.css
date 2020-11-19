@@ -1,0 +1,8 @@
+body {
+    background-image: url('../img/bg.jpg');
+    background-size: 150%;
+}
+
+p, div, h1 {
+    color: aliceblue;
+}
