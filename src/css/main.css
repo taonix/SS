@@ -20,7 +20,11 @@ p, div, h1 {
     body {
         background-image: none;
         background-image: url("../img/BGte.png");
-        background-size: 100%;
+        background-size: 300%;
+    }
+
+    .title {
+        margin-top: 10% !important;
     }
 
     h1 {
@@ -33,6 +37,10 @@ p, div, h1 {
 
     h3 {
         font-size: 50% !important;
+    }
+
+    .c1 {
+        margin-top: 80% !important;
     }
 
     .ytb {
