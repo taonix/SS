@@ -1,10 +1,12 @@
 body {
     background-image: url('../img/bg.jpg');
     background-size: 150%;
+    background-repeat: no-repeat;
 }
 
 p, div, h1 {
     color: aliceblue;
+    background-color: none;
 }
 
 .ytb {
@@ -14,8 +16,8 @@ p, div, h1 {
     margin: 1%;
 }
 
-@media only screen and (max-width:800px) {
+@media only screen and (max-width:980px) {
     .ytb {
-        display: none;
+        display: none
     }
    }
