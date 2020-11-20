@@ -6,3 +6,16 @@ body {
 p, div, h1 {
     color: aliceblue;
 }
+
+.ytb {
+    display: inline-block;
+    width: 50%;
+    height:50%;
+    margin: 1%;
+}
+
+@media only screen and (max-width:800px) {
+    .ytb {
+        display: none;
+    }
+   }
