@@ -1,7 +1,8 @@
 jQuery(function($) {
 
 
-    var launch = new Date(2020,11,1,17,00,00);
+    /*var launch = new Date(2020,11,1,17,0o0,0o0);*/
+    var launch = new Date(Date.UTC(2020,11,1,17,0o0,0o0));
     var days  = $('#days');;
     var hours = $('#hours');
     var minutes = $('#minutes');
