@@ -7,9 +7,10 @@ html {
 }
 
 body {
-    background-image: url('../img/bg.jpg');
-    background-size: 150%;
+    background-image: url('../img/FondV.png');
+    background-size: 100%;
     background-repeat: no-repeat;
+    /*filter: blur(4px);*/
 }
 
 p, div, h1, h2 {
@@ -27,6 +28,7 @@ p, div, h1, h2 {
     /*background-image: url('../img/BGte.png');
     background-size: 100%;
     background-repeat: no-repeat;*/
+    background-color: #E5E8E5;
 }
 
 @media only screen and (max-width:980px) {
