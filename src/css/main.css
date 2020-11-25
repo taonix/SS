@@ -24,6 +24,12 @@ p, div, h1, h2 {
     margin: 1%;
 }
 
+.BGbas{
+    background-image: url('../img/BGbas.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
 .rf {
     /*background-image: url('../img/BGte.png');
     background-size: 100%;
